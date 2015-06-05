@@ -5,10 +5,14 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Kresnik's Journey
-tagline:             随想和技术空间
+title:               K's Journey
+tagline:             Kresnik的随想和技术空间
 url:                 http://kresnikwang.github.io	
 paginate:            1
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
 baseurl:             ""
 
 # Assets
