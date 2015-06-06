@@ -9,6 +9,7 @@ title:               K's Journey
 tagline:             Kresnik的随想和技术空间
 url:                 http://kresnikwang.github.io	
 paginate:            1
+encoding:            utf-8
 pages_list:       
   About: '/about'
   Archive: '/archive'
