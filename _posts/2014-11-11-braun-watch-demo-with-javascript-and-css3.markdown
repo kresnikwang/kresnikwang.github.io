@@ -40,7 +40,7 @@ Download Link：[http://kresnik.co/demo/watchdemo/braunwatch.zip](http://kresnik
 
 
 
-    
+```
     < !DOCTYPE HTML><script type="text/javascript">// < ![CDATA[
     function clock(){
         var $=function(id){return document.getElementById(id)};
@@ -133,7 +133,7 @@ Download Link：[http://kresnik.co/demo/watchdemo/braunwatch.zip](http://kresnik
         }
     window.onload=clock;
     // ]]></script>
-
+```
 
 
 

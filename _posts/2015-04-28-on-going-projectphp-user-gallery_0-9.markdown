@@ -3,9 +3,7 @@ author: kresnikwang
 comments: true
 date: 2015-04-28 20:04:00+00:00
 layout: post
-slug: on-going-projectphp-user-gallery_0-9
 title: On Going Project|PHP User Gallery_0.9
-wordpress_id: 290
 categories:
 - Project
 - Tech
@@ -19,7 +17,7 @@ Download: [kresnik.co/demo/usergallery/Usergallery_0.9.rar](http://kresnik.co/de
 
 Recently I started to write this personal Online Gallery program. I want to incorporate it into different website in the future.
 
-Log 04/03/2015
+Update: 04/03/2015
 
 Version 0.9:
 

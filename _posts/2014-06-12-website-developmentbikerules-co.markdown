@@ -27,6 +27,4 @@ As the team website developer. I worked with my creative teammates to design & m
 
 [![bikerules](http://kresnik.co/wp-content/uploads/2015/04/bikerules-1024x526.jpg)](http://kresnik.co/wp-content/uploads/2015/04/bikerules.jpg)
 
-
-
 Trying to grow this idea bigger and something intersting & helpful for the bike riders.

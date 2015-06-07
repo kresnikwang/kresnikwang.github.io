@@ -17,7 +17,7 @@ tags:
 
     
     
-    <code>
+   ```
     <script language="JavaScript">
     (function(){ 
        if(!/*@cc_on!@*/0) return; 
@@ -27,5 +27,4 @@ tags:
        } 
     })();
     </script>
-    </length></script></code>
-    
+    ```

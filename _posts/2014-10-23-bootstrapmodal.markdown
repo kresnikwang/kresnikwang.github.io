@@ -17,8 +17,7 @@ tags:
 github里面一个关于bootstrap创建modal的例子
 先修改bootstap.css让它风格化
 
-
-    
+```css
     
     body.modal-open, 
     .modal-open .navbar-fixed-top, 
@@ -46,14 +45,11 @@ github里面一个关于bootstrap创建modal的例子
       max-width: none;
     }
     
-
+```
 
 
 正文
-
-
-    
-    
+    ```
     <div data-focus-on="input:first" tabindex="-1" id="stack1" class="modal hide fade">
       <div class="modal-header">
         <button data-dismiss="modal" type="button" class="close" aria-hidden="true">×</button>
@@ -107,4 +103,4 @@ github里面一个关于bootstrap创建modal的例子
       </div>
     </div>
     
-    
+    ```

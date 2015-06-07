@@ -7,13 +7,16 @@ slug: javascript-include-html-page-by-jquery
 title: Javascript Include Html Page By Jquery
 wordpress_id: 326
 categories:
-- Journey
+- Tech
+tags:
+- javascript
+- Html5
 ---
 
 如果页面不用php编程，而且想用javascript来像php一样include页面的话，可以用jquery的load function来实现，代码如下：
 
 
-    
+```
     <html> 
       <head> 
         <script src="jquery.js"></script> 
@@ -28,15 +31,14 @@ categories:
          <div id="includedContent"></div>
       </body> 
     </html>
-
+```
 
 
 b.html:
 
-
-    
+```
      This is my include file 
-
+```
 
 
 

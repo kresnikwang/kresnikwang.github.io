@@ -4,7 +4,7 @@ paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
-#markdown: kramdown
+markdown: redcarpet
 encoding: utf-8
 
 defaults:
@@ -20,7 +20,7 @@ author:
   email: kresnikwang@gmail.com
   github: kresnikwang
   twitter: kresnikwang
-  linkedin: kresnikwang
+  linkedin: kris-yanning-wang/88/a07/945
   bio: Kresnik的随想和技术空间
   email_md5: 2baf659d886c56f600e3df8b4b9068f1
 
