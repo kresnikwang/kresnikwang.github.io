@@ -1,35 +1,31 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Setup
-title:               K's Journey
-tagline:             Kresnik的随想和技术空间
-url:                 http://kresnikwang.github.io	
-paginate:            1
-encoding:            utf-8
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
-baseurl:             ""
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+#markdown: kramdown
+encoding: utf-8
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: K's Journey
 
-# About/contact
+description: Kresnik的随想和技术空间
 author:
-  name:              Kresnik Wang
-  url:               https://twitter.com/kresnikwang
-  email:             kresnikwang@gmail.com
+  name: Kresnikwang
+  email: kresnikwang@gmail.com
+  github: kresnikwang
+  twitter: kresnikwang
+  linkedin: kresnikwang
+  bio: Kresnik的随想和技术空间
+  email_md5: 2baf659d886c56f600e3df8b4b9068f1
 
-# Custom vars
-version:             1.0.0
-github:
-  repo:              https://github.com/kresnikwang.github.io
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
