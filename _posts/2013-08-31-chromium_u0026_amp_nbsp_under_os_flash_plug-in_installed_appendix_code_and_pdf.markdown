@@ -9,7 +9,7 @@ wordpress_id: 23
 categories:
 - Tech
 tags:
-- 技术
+- Chromium OS
 ---
 附录一下代码，希望能有童鞋有用
 ```

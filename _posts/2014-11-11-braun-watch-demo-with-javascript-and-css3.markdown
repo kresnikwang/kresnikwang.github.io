@@ -7,7 +7,7 @@ slug: braun-watch-demo-with-javascript-and-css3
 title: JS and CSS3 Braun Watch(Clock) Demo|js时钟手表效果（含日期）
 wordpress_id: 146
 categories:
-- MyDemo
+- Works
 - Tech
 tags:
 - css3

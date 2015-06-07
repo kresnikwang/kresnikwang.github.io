@@ -7,7 +7,7 @@ slug: website-developsept-seedling-media-studio-%e4%b8%83%e7%a6%be%e6%96%87%e5%8
 title: Website Development|Sept-Seedling Media Studio |七禾文化传媒
 wordpress_id: 260
 categories:
-- MyDemo
+- Works
 - Tech
 tags:
 - bootstrap

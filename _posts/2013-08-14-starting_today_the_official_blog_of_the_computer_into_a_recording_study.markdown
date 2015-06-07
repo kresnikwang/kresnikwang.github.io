@@ -3,9 +3,7 @@ author: kresnikwang
 comments: true
 date: 2013-08-14 12:40:53+00:00
 layout: post
-slug: starting_today_the_official_blog_of_the_computer_into_a_recording_study
 title: 从今天起，博客正式变成电脑研究的记录之地
-wordpress_id: 21
 categories:
 - Journey
 tags:

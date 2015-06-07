@@ -7,14 +7,13 @@ slug: a-shopping-site-demo-auto-zoom-in-photo-layer-style-photo-show
 title: A Shopping Site Demo (auto Zoom-in Photo, Layer style photo show)
 wordpress_id: 255
 categories:
-- MyDemo
+- Works
 - Tech
 tags:
 - bootstrap
 - css3
 - Html5
 - javascript
-- 技术
 ---
 
 A Shopping Site Demo 购物网站（精美图片放大镜，底部图片全屏浏览）

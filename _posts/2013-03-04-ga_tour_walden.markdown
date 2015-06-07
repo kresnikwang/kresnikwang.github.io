@@ -5,7 +5,6 @@ date: 2013-03-04 05:36:02+00:00
 layout: post
 slug: ga_tour_walden
 title: GA之旅散记
-wordpress_id: 20
 categories:
 - Journey
 tags:

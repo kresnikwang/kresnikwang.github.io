@@ -9,7 +9,7 @@ wordpress_id: 22
 categories:
 - Tech
 tags:
-- 技术
+- Chromium OS
 ---
 
 最近用了Vanilla的U盘装了Chromium OS来用，真心快！但是没有Flash插件和Pdf插件对于我而言几乎啥事都做不了了，为了发挥Chromium
