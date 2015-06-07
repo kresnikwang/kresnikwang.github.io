@@ -15,7 +15,8 @@ tags:
 - 歌
 ---
 
-[audio mp3="http://kresnik.co/wp-content/uploads/2014/10/21-Grams-21-Grams.mp3"][/audio]
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=398676&auto=1&height=66"></iframe>
+
 最近经历了心理的起起伏伏，其实没跟多少不同的人说过话，但又好像听了太多，想把耳朵堵起来
 喜欢逃避的心一直就是这样，没来由的，走开去，等到自己觉得好的差不多了再回到这人群里
 我身边的人啊，你们对我，肯定比你们想象的要重要的多得多
