@@ -36,10 +36,10 @@ tags:
 
 - [http://rsms.me/](http://rsms.me/)
 
-###安装前的准备
+###安装流程
 
 1. 要用github pages，首先要在github中建立一个基于你的用户名的repository: 比如说我，就要建立名为[kresnikwang.github.io](https://github.com/kresnikwang/kresnikwang.github.io)的repo。在以前的github版本中还需要在后台开启pages的功能，现在系统检测到这样的repo名称之后，会在setting中自动开启GitHub Pages的功能，如下图：
-![Alt text]({{site.BASE_PATH}}/assets/media/kresnikwang.github.io.png)
+![Alt text](http://kresnikwang.github.io/assets/media/06-2015/kresnikwang.github.io.png)
 这样之后你就可以把这个repo克隆到本地随意进行修改了，在这个里面上传的网页就是你的网站的内容了，可以上传一个index.html试一试，这就是你的网站主页了。
 关于GiuHub的使用，可以看几个比较好的入门教程：[GitHub](http://www.zhihu.com/question/20070065)
 2. 之后我们就要在本地部署jekyll，jekyll的原理很简单。这是一个已经合成好的静态html网站结构，你用这个结构在username,github.io文件夹里面粘帖好所有文件。再把更新完的本地repo推送到GitHub的master branch里面，你的网站就更新建设完毕了。
