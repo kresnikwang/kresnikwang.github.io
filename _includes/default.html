@@ -50,9 +50,9 @@
 				<i class="fa fa-github"></i>
 			</a>
 			{% endif %}
-			{% if site.author.twitter %}
-			<a type="button" class="navbar-toggle nav-link" href="http://twitter.com/{{ site.author.twitter }}">
-				<i class="fa fa-twitter"></i>
+			{% if site.author.instagram %}
+			<a type="button" class="navbar-toggle nav-link" href="http://instagram.com/{{ site.author.instagram}}">
+				<i class="fa fa-instagram"></i>
 			</a>
 			{% endif %}
 			{% if site.author.email %}
@@ -73,6 +73,7 @@
 				<li class="active"><a href="{{ site.BASE_PATH }}/">Home</a></li>
 				<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}">Categories</a></li>
 				<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}">Tags</a></li>
+				<li><a href="{{ site.BASE_PATH}}/resume">Resume</a></li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</nav>
@@ -86,6 +87,7 @@
 			<li><a href="{{ site.BASE_PATH}}/"><i class="fa fa-home"></i>Home</a></li>
 			<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}"><i class="fa fa-folder"></i>Categories</a></li>
 			<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}"><i class="fa fa-tags"></i>Tags</a></li>
+			<li><a href="{{ site.BASE_PATH}}/resume"><i class="fa fa-tags"></i>Resume</a></li>
 			<li class="divider"></li>
 			<li><a href="#"><i class="fa fa-arrow-up"></i>Top of Page</a></li>
 		</ul>
