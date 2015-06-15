@@ -3,7 +3,7 @@ author: kresnikwang
 comments: true
 date: 2014-12-12 21:57:31+00:00
 layout: post
-slug: website-developsept-seedling-media-studio-%e4%b8%83%e7%a6%be%e6%96%87%e5%8c%96%e4%bc%a0%e5%aa%92
+slug: website-developsept-seedling-media-studio
 title: Website Development|Sept-Seedling Media Studio |七禾文化传媒
 wordpress_id: 260
 categories:
